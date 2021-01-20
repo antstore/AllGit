@@ -12,7 +12,7 @@
         <version>${project.version}</version>
     </parent>
     <properties>
-        <jackson.version>2.2.2</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
     </properties>
     <dependencies>
         <!-- see: https://github.com/FasterXML/jackson-docs/wiki/Using-Jackson2-with-Maven -->
